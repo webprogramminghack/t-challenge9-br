@@ -1,4 +1,4 @@
-# Challenge 9 (Batch Rep) - Refactor tailwind app into React App
+# Challenge 9 (Phase 2 - Batch Rep) - Refactor tailwind app into React App
 
 # Description
 
